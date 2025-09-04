@@ -1,0 +1,4 @@
+Implementation,1 Average,1 Std,2 Average,2 Std,4 Average,4 Std,8 Average,8 Std
+Serial,10032.08,1059.26,,,,,,,
+One mutex for entire list,10101.71,899.95,16140.39,2177.34,18576.73,2030.69,21591.28,3064.71
+Read-Write lock,11304.21,2105.87,12498.64,2166.59,14617.04,2096.00,15194.11,1923.90
